@@ -1,0 +1,35 @@
+{
+    "name": "Project Grid",
+    "short_name": "Project Grid",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F0E6",
+    "theme_color": "#3E7C67",
+    "description": "A calm capybara logic puzzle game.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
